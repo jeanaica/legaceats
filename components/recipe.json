@@ -1,0 +1,221 @@
+[
+  {
+    "ingredients": [
+      "2 cups flour",
+      "1 cup sugar",
+      "1/2 cup butter",
+      "2 eggs",
+      "1 cup milk",
+      "1 tbsp baking powder",
+      "1 tsp vanilla extract"
+    ],
+    "prepTime": "30 minutes",
+    "servings": 8,
+    "notes": "Perfect for a quick dessert or a sweet treat.",
+    "directions": [
+      "Preheat the oven to 350°F (175°C).",
+      "In a large bowl, cream together butter and sugar until light and fluffy.",
+      "Beat in eggs one at a time, then stir in the vanilla.",
+      "Combine flour and baking powder, add to the creamed mixture alternately with milk.",
+      "Pour batter into a greased 9x5 inch loaf pan.",
+      "Bake for 50-60 minutes or until a toothpick comes out clean."
+    ],
+    "name": "Basic Vanilla Cake",
+    "imageURL": "https://example.com/vanilla-cake.jpg"
+  },
+  {
+    "ingredients": [
+      "1 lb chicken breast",
+      "2 cups broccoli",
+      "1 cup carrots",
+      "1/4 cup soy sauce",
+      "2 tbsp olive oil",
+      "2 cloves garlic",
+      "1 tsp ginger"
+    ],
+    "prepTime": "25 minutes",
+    "servings": 4,
+    "notes": "A healthy stir-fry option.",
+    "directions": [
+      "Heat olive oil in a large pan over medium heat.",
+      "Add minced garlic and ginger, sauté for 1 minute.",
+      "Add chicken breast, cook until browned.",
+      "Add broccoli and carrots, stir-fry for 5-7 minutes.",
+      "Pour soy sauce over the mixture, stir to combine, and cook for another 3 minutes."
+    ],
+    "name": "Chicken and Veggie Stir-Fry",
+    "imageURL": "https://example.com/chicken-stir-fry.jpg"
+  },
+  {
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups vegetable broth",
+      "1 can black beans",
+      "1 cup corn",
+      "1 red bell pepper",
+      "1 avocado",
+      "1 lime"
+    ],
+    "prepTime": "20 minutes",
+    "servings": 4,
+    "notes": "Great for meal prep and packed with protein.",
+    "directions": [
+      "Rinse quinoa under cold water.",
+      "In a saucepan, combine quinoa and vegetable broth. Bring to a boil, then reduce heat to simmer.",
+      "Cook until quinoa is fluffy, about 15 minutes.",
+      "In a bowl, combine cooked quinoa, black beans, corn, and diced bell pepper.",
+      "Drizzle with lime juice and top with avocado before serving."
+    ],
+    "name": "Quinoa Black Bean Salad",
+    "imageURL": "https://example.com/quinoa-salad.jpg"
+  },
+  {
+    "ingredients": [
+      "4 large eggs",
+      "1/4 cup milk",
+      "1 cup spinach",
+      "1/2 cup feta cheese",
+      "1 tbsp olive oil",
+      "salt",
+      "pepper"
+    ],
+    "prepTime": "15 minutes",
+    "servings": 2,
+    "notes": "A nutritious breakfast option.",
+    "directions": [
+      "Preheat the oven to 375°F (190°C).",
+      "Whisk eggs and milk together in a bowl, season with salt and pepper.",
+      "Heat olive oil in an oven-safe skillet, add spinach and cook until wilted.",
+      "Pour egg mixture over spinach, sprinkle feta on top.",
+      "Transfer the skillet to the oven and bake for 10-12 minutes until set."
+    ],
+    "name": "Spinach Feta Frittata",
+    "imageURL": "https://example.com/frittata.jpg"
+  },
+  {
+    "ingredients": [
+      "1 lb ground beef",
+      "1 cup diced onion",
+      "1 can diced tomatoes",
+      "1 cup kidney beans",
+      "2 cups beef broth",
+      "1 tbsp chili powder",
+      "1 tsp cumin"
+    ],
+    "prepTime": "15 minutes",
+    "servings": 6,
+    "notes": "A hearty meal perfect for cold nights.",
+    "directions": [
+      "In a large pot, brown the ground beef with onions.",
+      "Drain excess fat, then add tomatoes, kidney beans, and beef broth.",
+      "Stir in chili powder and cumin.",
+      "Bring to a boil, then reduce heat and simmer for 30 minutes."
+    ],
+    "name": "Classic Chili",
+    "imageURL": "https://example.com/chili.jpg"
+  },
+  {
+    "ingredients": [
+      "2 cups mixed berries",
+      "1 cup yogurt",
+      "1/2 cup granola",
+      "2 tbsp honey"
+    ],
+    "prepTime": "10 minutes",
+    "servings": 2,
+    "notes": "A refreshing breakfast or snack.",
+    "directions": [
+      "In serving bowls, layer yogurt, mixed berries, and granola.",
+      "Drizzle honey on top.",
+      "Serve immediately."
+    ],
+    "name": "Berry Yogurt Parfait",
+    "imageURL": "https://example.com/yogurt-parfait.jpg"
+  },
+  {
+    "ingredients": [
+      "4 medium potatoes",
+      "1/4 cup olive oil",
+      "1 tsp garlic powder",
+      "1 tsp paprika",
+      "salt",
+      "pepper"
+    ],
+    "prepTime": "10 minutes",
+    "servings": 4,
+    "notes": "Crispy and delicious side dish.",
+    "directions": [
+      "Preheat the oven to 425°F (220°C).",
+      "Cut potatoes into wedges and place in a bowl.",
+      "Toss with olive oil, garlic powder, paprika, salt, and pepper.",
+      "Spread out on a baking sheet and bake for 25-30 minutes until crispy."
+    ],
+    "name": "Crispy Baked Potato Wedges",
+    "imageURL": "https://example.com/potato-wedges.jpg"
+  },
+  {
+    "ingredients": [
+      "1 cup rice",
+      "2 cups water",
+      "1 can coconut milk",
+      "1/2 cup sugar",
+      "1/4 tsp salt"
+    ],
+    "prepTime": "5 minutes",
+    "servings": 4,
+    "notes": "A sweet and creamy dessert.",
+    "directions": [
+      "In a pot, combine rice and water, bring to a boil.",
+      "Reduce heat, cover, and simmer for 15 minutes.",
+      "Stir in coconut milk, sugar, and salt. Cook for another 5 minutes."
+    ],
+    "name": "Coconut Rice Pudding",
+    "imageURL": "https://example.com/rice-pudding.jpg"
+  },
+  {
+    "ingredients": [
+      "2 cups spinach",
+      "1/2 cup feta cheese",
+      "1/4 cup olives",
+      "1/4 cup red onion",
+      "2 tbsp olive oil",
+      "1 tbsp balsamic vinegar",
+      "salt",
+      "pepper"
+    ],
+    "prepTime": "10 minutes",
+    "servings": 4,
+    "notes": "A fresh and tasty salad.",
+    "directions": [
+      "In a large bowl, combine spinach, feta, olives, and red onion.",
+      "In a small bowl, whisk together olive oil, balsamic vinegar, salt, and pepper.",
+      "Pour dressing over the salad and toss to combine."
+    ],
+    "name": "Mediterranean Spinach Salad",
+    "imageURL": "https://example.com/spinach-salad.jpg"
+  },
+  {
+    "ingredients": [
+      "3 bananas",
+      "1/3 cup melted butter",
+      "1/2 cup sugar",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "1 tsp baking soda",
+      "pinch of salt",
+      "1 1/2 cups flour"
+    ],
+    "prepTime": "10 minutes",
+    "servings": 8,
+    "notes": "A great way to use overripe bananas.",
+    "directions": [
+      "Preheat the oven to 350°F (175°C).",
+      "In a mixing bowl, mash bananas and mix in melted butter.",
+      "Stir in sugar, egg, and vanilla.",
+      "Mix in baking soda and salt, then add flour until just combined.",
+      "Pour into a greased loaf pan and bake for 60-65 minutes."
+    ],
+    "name": "Banana Bread",
+    "imageURL": "https://example.com/banana-bread.jpg"
+  }
+]
