@@ -1,7 +1,6 @@
-[
-  {
+{
+  "basic-vanilla-cake": {
     "id": "1",
-    "slug": "basic-vanilla-cake",
     "ingredients": [
       "2 cups flour",
       "1 cup sugar",
@@ -23,11 +22,10 @@
       "Bake for 50-60 minutes or until a toothpick comes out clean."
     ],
     "name": "Basic Vanilla Cake",
-    "imageURL": "https://example.com/vanilla-cake.jpg"
+    "imageURL": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4ODg2NTA0LWltYWdlLWt3dnhkbG1nLmpwZw.jpg"
   },
-  {
+  "chicken-veggie-stir-fry": {
     "id": "2",
-    "slug": "chicken-veggie-stir-fry",
     "ingredients": [
       "1 lb chicken breast",
       "2 cups broccoli",
@@ -50,9 +48,8 @@
     "name": "Chicken and Veggie Stir-Fry",
     "imageURL": "https://example.com/chicken-stir-fry.jpg"
   },
-  {
+  "quinoa-black-bean-salad": {
     "id": "3",
-    "slug": "quinoa-black-bean-salad",
     "ingredients": [
       "1 cup quinoa",
       "2 cups vegetable broth",
@@ -75,9 +72,8 @@
     "name": "Quinoa Black Bean Salad",
     "imageURL": "https://example.com/quinoa-salad.jpg"
   },
-  {
+  "spinach-feta-frittata": {
     "id": "4",
-    "slug": "spinach-feta-frittata",
     "ingredients": [
       "4 large eggs",
       "1/4 cup milk",
@@ -100,9 +96,8 @@
     "name": "Spinach Feta Frittata",
     "imageURL": "https://example.com/frittata.jpg"
   },
-  {
+  "classic-chili": {
     "id": "5",
-    "slug": "classic-chili",
     "ingredients": [
       "1 lb ground beef",
       "1 cup diced onion",
@@ -124,9 +119,8 @@
     "name": "Classic Chili",
     "imageURL": "https://example.com/chili.jpg"
   },
-  {
+  "berry-yogurt-parfait": {
     "id": "6",
-    "slug": "berry-yogurt-parfait",
     "ingredients": [
       "2 cups mixed berries",
       "1 cup yogurt",
@@ -144,9 +138,8 @@
     "name": "Berry Yogurt Parfait",
     "imageURL": "https://example.com/yogurt-parfait.jpg"
   },
-  {
+  "crispy-baked-potato-wedges": {
     "id": "7",
-    "slug": "crispy-baked-potato-wedges",
     "ingredients": [
       "4 medium potatoes",
       "1/4 cup olive oil",
@@ -166,26 +159,5 @@
     ],
     "name": "Crispy Baked Potato Wedges",
     "imageURL": "https://example.com/potato-wedges.jpg"
-  },
-  {
-    "id": "8",
-    "slug": "coconut-rice-pudding",
-    "ingredients": [
-      "1 cup rice",
-      "2 cups water",
-      "1 can coconut milk",
-      "1/2 cup sugar",
-      "1/4 tsp salt"
-    ],
-    "prepTime": "5 minutes",
-    "servings": 4,
-    "notes": "A sweet and creamy dessert.",
-    "directions": [
-      "In a pot, combine rice and water, bring to a boil.",
-      "Reduce heat, cover, and simmer for 15 minutes.",
-      "Stir in coconut milk, sugar, and salt. Cook for another 5 minutes."
-    ],
-    "name": "Coconut Rice Pudding",
-    "imageURL": "https://example.com/rice-pudding.jpg"
   }
-]
+}
