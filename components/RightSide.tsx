@@ -1,4 +1,6 @@
-const RightSide = ({ directions }: { directions: string[] }) => {
+import { FC } from "react";
+
+const RightSide: FC<{ directions: string[] }> = ({ directions }) => {
   return (
     <div className="w-full p-4 flex flex-col">
       <h3>Directions</h3>

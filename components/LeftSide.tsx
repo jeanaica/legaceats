@@ -1,12 +1,13 @@
 import { RecipeType } from "@/types/recipe.type";
+import { FC } from "react";
 
-const LeftSide = ({
+const LeftSide: FC<Partial<RecipeType>> = ({
   name,
   ingredients,
   prepTime,
   servings,
   notes,
-}: Partial<RecipeType>) => {
+}) => {
   return (
     <div className="flex flex-col">
       <div className="w-full flex-1">{name}</div>
