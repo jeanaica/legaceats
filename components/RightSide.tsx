@@ -2,7 +2,7 @@ import { FC } from "react";
 
 const RightSide: FC<{ directions: string[] }> = ({ directions }) => {
   return (
-    <div className="w-full p-4 flex flex-col">
+    <div className="w-full p-4 flex flex-col flex-1">
       <h3>Directions</h3>
       <div className="flex flex-col">
         {directions.map((direction, index: number) => (

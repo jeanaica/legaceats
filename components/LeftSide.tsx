@@ -9,7 +9,7 @@ const LeftSide: FC<Partial<RecipeType>> = ({
   notes,
 }) => {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col flex-1">
       <div className="w-full flex-1">{name}</div>
       <div className="w-full flex flex-1">
         <div className="flex-1">{servings}</div>
