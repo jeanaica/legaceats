@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Header from "@/components/Header";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -27,7 +28,7 @@ Readonly<{
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased grid grid-cols-1 grid-rows-[200px_1fr_100px] h-screen`}
       >
-        <div>Header</div>
+        <Header />
         <div className="w-full flex gap-2">
           <div className="flex-1">Left</div>
           <div className="flex-1">Right</div>
