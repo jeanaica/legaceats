@@ -1,5 +1,7 @@
 [
   {
+    "id": "1",
+    "slug": "basic-vanilla-cake",
     "ingredients": [
       "2 cups flour",
       "1 cup sugar",
@@ -24,6 +26,8 @@
     "imageURL": "https://example.com/vanilla-cake.jpg"
   },
   {
+    "id": "2",
+    "slug": "chicken-veggie-stir-fry",
     "ingredients": [
       "1 lb chicken breast",
       "2 cups broccoli",
@@ -47,6 +51,8 @@
     "imageURL": "https://example.com/chicken-stir-fry.jpg"
   },
   {
+    "id": "3",
+    "slug": "quinoa-black-bean-salad",
     "ingredients": [
       "1 cup quinoa",
       "2 cups vegetable broth",
@@ -70,6 +76,8 @@
     "imageURL": "https://example.com/quinoa-salad.jpg"
   },
   {
+    "id": "4",
+    "slug": "spinach-feta-frittata",
     "ingredients": [
       "4 large eggs",
       "1/4 cup milk",
@@ -93,6 +101,8 @@
     "imageURL": "https://example.com/frittata.jpg"
   },
   {
+    "id": "5",
+    "slug": "classic-chili",
     "ingredients": [
       "1 lb ground beef",
       "1 cup diced onion",
@@ -115,6 +125,8 @@
     "imageURL": "https://example.com/chili.jpg"
   },
   {
+    "id": "6",
+    "slug": "berry-yogurt-parfait",
     "ingredients": [
       "2 cups mixed berries",
       "1 cup yogurt",
@@ -133,6 +145,8 @@
     "imageURL": "https://example.com/yogurt-parfait.jpg"
   },
   {
+    "id": "7",
+    "slug": "crispy-baked-potato-wedges",
     "ingredients": [
       "4 medium potatoes",
       "1/4 cup olive oil",
@@ -154,6 +168,8 @@
     "imageURL": "https://example.com/potato-wedges.jpg"
   },
   {
+    "id": "8",
+    "slug": "coconut-rice-pudding",
     "ingredients": [
       "1 cup rice",
       "2 cups water",
@@ -171,51 +187,5 @@
     ],
     "name": "Coconut Rice Pudding",
     "imageURL": "https://example.com/rice-pudding.jpg"
-  },
-  {
-    "ingredients": [
-      "2 cups spinach",
-      "1/2 cup feta cheese",
-      "1/4 cup olives",
-      "1/4 cup red onion",
-      "2 tbsp olive oil",
-      "1 tbsp balsamic vinegar",
-      "salt",
-      "pepper"
-    ],
-    "prepTime": "10 minutes",
-    "servings": 4,
-    "notes": "A fresh and tasty salad.",
-    "directions": [
-      "In a large bowl, combine spinach, feta, olives, and red onion.",
-      "In a small bowl, whisk together olive oil, balsamic vinegar, salt, and pepper.",
-      "Pour dressing over the salad and toss to combine."
-    ],
-    "name": "Mediterranean Spinach Salad",
-    "imageURL": "https://example.com/spinach-salad.jpg"
-  },
-  {
-    "ingredients": [
-      "3 bananas",
-      "1/3 cup melted butter",
-      "1/2 cup sugar",
-      "1 egg",
-      "1 tsp vanilla extract",
-      "1 tsp baking soda",
-      "pinch of salt",
-      "1 1/2 cups flour"
-    ],
-    "prepTime": "10 minutes",
-    "servings": 8,
-    "notes": "A great way to use overripe bananas.",
-    "directions": [
-      "Preheat the oven to 350°F (175°C).",
-      "In a mixing bowl, mash bananas and mix in melted butter.",
-      "Stir in sugar, egg, and vanilla.",
-      "Mix in baking soda and salt, then add flour until just combined.",
-      "Pour into a greased loaf pan and bake for 60-65 minutes."
-    ],
-    "name": "Banana Bread",
-    "imageURL": "https://example.com/banana-bread.jpg"
   }
 ]
